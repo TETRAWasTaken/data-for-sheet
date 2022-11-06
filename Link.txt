@@ -1,1 +1,1 @@
-database = {"Maths":{},"Chemistry":{},"Physics":{}}
+{"Maths":{},"Chemistry":{},"Physics":{}}
